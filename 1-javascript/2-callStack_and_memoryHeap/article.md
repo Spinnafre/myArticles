@@ -94,9 +94,9 @@ console.log("P1 =>> ",p1)
 console.log("P2 =>> ",p2)
 ```
 
-Outra alternativa é usar o *spread operator* para realizar uma *****Shallow Copy***** que resumidamente é copiar os atributos principais do objeto. Muito eficiente quando se trabalha com objetos simples, ou seja, não possuem encadeamento de dados dentro de uma mesma estrutura*****.*****
+Outra alternativa é usar o *spread operator* para realizar uma *****Shallow Copy***** que resumidamente é copiar os atributos principais do objeto. Muito eficiente quando se trabalha com objetos simples, ou seja, não possuem encadeamento de dados dentro de uma mesma estrutura.
 
-```
+```jsx
 let p1 = {
     id:1,
     name:'Davi',
