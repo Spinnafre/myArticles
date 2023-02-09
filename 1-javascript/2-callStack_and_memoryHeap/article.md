@@ -357,7 +357,7 @@ Para evitar ter problemas em duas variáveis diferentes apontarem para o mesmo e
 
 ![Altera tanto o `obj1` como o `obj2` irá ocasionar na modificação na mesma referência da memória do objeto na *memory heap*.](imgs/Untitled%201.png)
 
-Altera tanto o `obj1` como o `obj2` irá ocasionar na modificação na mesma referência da memória do objeto na *memory heap*.
+Alterar tanto o `obj1` como o `obj2` irá ocasionar na modificação na mesma referência da memória do objeto na *memory heap*.
 
 
 Feito com ❤️ por Davi Silva ou conhecido como [Spinnafre](https://github.com/Spinnafre) 😉
