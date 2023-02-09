@@ -331,7 +331,7 @@ const items_ids_copy = items_ids
 
 O código acima poderá ser visto de maneira mais ilustrativa, algo semelhante como a imagem abaixo. Notem que `items_ids` e `items_ids_copy` possuem referência para o mesmo array na *memory heap*.
 
-![Untitled](imgs/Untitled.png)
+![Untitled](imgs/Untitled%202.png)
 
 Sempre que cria uma valor do tipo não primitivo, o Javascript irá alocar o valor na *Memory Heap* com um identificador único da memória e irá ligá-lo com valor na *call stack*. Ou seja, cria um endereço na memória na *call stack* e o valor irá ser a referência do endereço da memória da *Memory Heap* que irá possuir o tipo não primitivo.
 
