@@ -355,7 +355,7 @@ O exemplo anterior é muito usado para indicar o compartilhamento de referência
 
 Para evitar ter problemas em duas variáveis diferentes apontarem para o mesmo endereço da memória existe o `Object.Create` ou outras técnicas de `deep copy` que criam novo endereço na *memory heap,* como já foi apresentado já no tópico sobre ***Call Stack***.
 
-![Altera tanto o `obj1` como o `obj2` irá ocasionar na modificação na mesma referência da memória do objeto na *memory heap*.](imgs/Untitled%201.png)
+![Altera tanto o `obj1` como o `obj2` irá ocasionar na modificação na mesma referência da memória do objeto na *memory heap*.](imgs/Untitled%203.png)
 
 Alterar tanto o `obj1` como o `obj2` irá ocasionar na modificação na mesma referência da memória do objeto na *memory heap*.
 
